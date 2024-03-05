@@ -1,0 +1,17 @@
+.sidebar {
+  /* min-height: 100vh; */
+  /* position: fixed; */
+  background-color: rgb(187, 183, 183);
+}
+
+.cards {
+  display: flex;
+  width: 500;
+  gap: 20px;  
+  flex-wrap: wrap;
+  margin-left: 30px;
+}
+
+.main {
+  display: flex;
+}
